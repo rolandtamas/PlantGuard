@@ -1,2 +1,2 @@
-# PlantGuard
-A university project for monitoring and fetching data from an autonomous gardening system
+# SmartGarden
+A university project for monitoring and fetching data from an autonomous gardening system.
