@@ -1,4 +1,4 @@
 # SmartGarden
 A university project for monitoring and fetching data from an autonomous gardening system.
 
-You can find all the files in the "development" branch
+The "development" branch contains the files which serve for the web interface that controls the system
